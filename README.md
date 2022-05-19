@@ -1,6 +1,6 @@
 
 <h3 align=center> Hi there 👋 </h3>
-<div align=center>
+<div position=fixed align=center>
   <!--<img width=100 src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif">-->
   <img width=100 src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </div>
