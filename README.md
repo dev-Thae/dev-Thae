@@ -1,7 +1,7 @@
 
 <h3 align=center> Hi there 👋 </h3>
 <div align=center>
-  <img width=100 src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif">
+  <!--<img width=100 src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif">-->
   <img width=100 src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </div>
 
@@ -14,10 +14,21 @@
 
 <h3>My Activities</h3>
 <ul>
-  <li><a href=https://www.hackerrank.com/dev_thae><img height=10 src=https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg></a></li>
+  <li><a href=https://www.hackerrank.com/dev_thae><img height=15 src=https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg></a></li>
   <li></li>
   <li></li>
 </ul>
+
+<h3>Sources That I Use</h3>
+<ul>
+  <li><a href=https://www.w3schools.com/><img height=15 src=https://www.w3schools.com/images/w3schools80x15.gif></a></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<h2>Everything will be updated...</h2>
+
+<!--
 
 <div id="ints">
   <h4>My Interests</h4>
@@ -30,7 +41,7 @@
   </div>
   <b>Python</b> <img width=50 src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif>
 </div>
-
+-->
 <h6 align=right>-Thæ<br>5/19/22</h6>
 
 <!--
