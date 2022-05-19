@@ -1,17 +1,29 @@
+<img width=100% src=https://media.giphy.com/media/ajZEEHMhzEvYpbJTPo/giphy.gif>
 <h3 align=center> Hi there 👋 </h3>
 <div align=center>
   <img width=100 src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif">
   <img width=100 src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
   <br>
-  <h3>I'm third grade software engineering student.</h3>
+  <h4>I'm third grade software engineering student.</h4>
 </div>
 
-<div id="mySkills">
-  
-  <b>Python</b> <img width=50 src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<div id="myActivities">
+  <h4>My Activities</h4>
+  <a href=https://www.hackerrank.com/dev_thae><img height=10 src=https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg></a>
 </div>
+<br>
 
-
+<div id="ints">
+  <h4>My Interests</h4>
+  <div id="int0" display=inline-block>
+    <img width=50 src=https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif>
+    <div class="int-info">
+      <b>C/C++:</b>
+      <p>Using these languages is really hard but they give high performance.</p>
+    </div>
+  </div>
+  <b>Python</b> <img width=50 src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif>
+</div>
 
 <h6 align=right>-Thæ<br>5/19/22</h6>
 
